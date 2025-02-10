@@ -1,0 +1,47 @@
+body {
+  background-image: url("../starter-code/assets/home/background-home-desktop.jpg");
+  background-size: cover;
+  color: white;
+  font-family: sans-serif;
+}
+
+.contain {
+  display: flex;
+  gap: 250px;
+  align-items: center;
+  margin-top: 150px;
+  margin-left: 300px;
+}
+
+.explore {
+  display: grid;
+  place-items: center; /* Centraliza o conteúdo vertical e horizontalmente */
+  text-align: center;
+  color: black;
+  background: white;
+  border-radius: 50%; /* Torna o elemento circular */
+  width: 220px;
+  height: 220px;
+  font-size: 1.5rem;
+  margin-left: 80px;
+}
+
+.text {
+  width: 400px;
+}
+
+.space {
+  color: white;
+  font-family: Bellefair;
+  font-size: 7rem;
+  letter-spacing: 0.3cm;
+}
+
+.tex-meio {
+  line-height: 1.8;
+  width: 380px;
+}
+
+.fraseHome {
+  font-size: 1.5rem;
+}

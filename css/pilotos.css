@@ -1,0 +1,25 @@
+body {
+  background-image: url("../starter-code/assets/crew/background-crew-desktop.jpg");
+  background-size: cover;
+  color: white;
+  font-family: sans-serif;
+}
+
+.contain {
+  display: flex;
+  margin-top: 40px;
+  margin-left: 300px;
+}
+
+.text {
+  max-width: 400px;
+}
+
+.profiss {
+  font-size: 2rem;
+  color: rgb(173, 178, 182);
+}
+
+.simbolo {
+  margin-right: 100px;
+}

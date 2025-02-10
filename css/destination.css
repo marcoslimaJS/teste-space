@@ -1,0 +1,41 @@
+body {
+  background-image: url("../starter-code/assets/destination/background-destination-desktop.jpg");
+  background-size: cover;
+  color: white;
+  font-family: sans-serif;
+}
+
+.contain {
+  display: flex;
+  gap: 250px;
+  align-items: center;
+  margin-top: 150px;
+  margin-left: 300px;
+}
+
+.tex-meio {
+  color: rgb(173, 178, 182);
+  width: 400px;
+  line-height: 1.8;
+  padding-bottom: 50px;
+}
+
+.titleAstro {
+  margin-bottom: 50px;
+  color: rgb(255, 255, 255);
+  font-size: 5rem;
+}
+
+.final-luas {
+  display: flex;
+  gap: 50px;
+}
+
+.ft-moon {
+  display: block;
+}
+
+.title-mon {
+  font-size: 2rem;
+  margin-bottom: 50px;
+}
